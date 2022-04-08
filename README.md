@@ -5,4 +5,6 @@ Recognition for people that have earned awards from the HackerNoon Bug Bounty Pr
 
 [![IMAGE ALT TEXT HERE](https://youtu.be/EYVbbItWtfo?t=114)](https://youtu.be/EYVbbItWtfo?t=114)
 
+https://youtu.be/EYVbbItWtfo?t=114
+
 Thank you for making this a better place to read, write and learn. 
